@@ -1,7 +1,7 @@
 
 # Hi there,i'm Okereke Lois
 
-I'm a beginner Frontend web developer
+I'm a Junior Frontend web developer
 
 
 ## 🛠 Skills
@@ -12,7 +12,7 @@ Javascript, HTML, CSS...
 
 
 ## 🚀 About Me
-I'm a Beginner frontend web developer
+I'm a Junior frontend web developer
 
 
 ## 🔗 Links
@@ -20,14 +20,15 @@ I'm a Beginner frontend web developer
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-- 🌱 I’m currently learning Software development
+- 🌱 I’m currently learning React
 - 📫 You can reach me through my email :okerekelois2@gmail.com
 <!--
 **Lois39/Lois39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the Assignments repository given by the zuri team
+- 🔭 I’m currently working on some challenges by frontend mentor
+
 - 🌱 I’m currently learning Frontend web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
