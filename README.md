@@ -12,7 +12,7 @@ Javascript, HTML, CSS...
 
 
 ## 🚀 About Me
-I'm a Junior frontend web developer
+I'm a frontend web developer
 
 
 ## 🔗 Links
