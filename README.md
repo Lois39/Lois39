@@ -1,4 +1,4 @@
-Sure! Here's a well-structured, professional, and engaging README for your GitHub profile as a frontend web developer. Feel free to tweak it to match your personality and preferences.
+
 
 ---
 
@@ -31,16 +31,16 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a passion fo
 
 ## 🚀 Projects
 Check out some of my featured projects:
-1. **[Project Name](#)**: A brief description of the project and its purpose.
-2. **[Project Name](#)**: A brief description of the project and its purpose.
+1. **Chic Collective(https://lois39.github.io/Chic-Collective/)**: A brief description of the project and its purpose.
+2. **Instagram Landing Page Clone(https://lois39.github.io/Instagram-Clone-Landing-Page/)**: A brief description of the project and its purpose.
 3. **[Project Name](#)**: A brief description of the project and its purpose.
 
 ---
 
 ## 📫 Connect with Me
-- **Portfolio:** [Your Portfolio URL](#)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Twitter:** [Your Twitter Handle](#)  
+- **Portfolio:** [My Portfolio URL](#)  
+- **LinkedIn:** [My LinkedIn Profile](#)  
+- **Twitter:** [My Twitter Handle](#)  
 
 ---
 
