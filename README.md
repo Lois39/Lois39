@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a passion fo
 
 ## 🚀 Projects
 Check out some of my featured projects:
-1. **Chic Collective(https://lois39.github.io/Chic-Collective/)**: A brief description of the project and its purpose.
-2. **Instagram Landing Page Clone(https://lois39.github.io/Instagram-Clone-Landing-Page/)**: A brief description of the project and its purpose.
-3. **[Project Name](#)**: A brief description of the project and its purpose.
+1. **Chic Collective(https://lois39.github.io/Chic-Collective/)**: A fashion e-commerce website.
+2. **Instagram Landing Page Clone(https://lois39.github.io/Instagram-Clone-Landing-Page/)**: A clone of the Instagram Landing Home Page.
+3. **CSS Cell Animation(https://lois39.github.io/CSS-Cell-Animation/)**: A brief but stunning css animation.
 
 ---
 
@@ -41,12 +41,6 @@ Check out some of my featured projects:
 - **Portfolio:** [My Portfolio URL](#)  
 - **LinkedIn:** [My LinkedIn Profile](#)  
 - **Twitter:** [My Twitter Handle](#)  
-
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
