@@ -2,9 +2,9 @@
 
 ---
 
-# 👋 Hi there, I'm Okereke Lois!
+# 👋 Hi there, I'm Lois Okereke!
 
-Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a passion for creating intuitive, user-friendly, and visually appealing web applications.  
+Welcome to my GitHub profile! I'm a **Frontend Engineer** with a passion for creating intuitive, user-friendly, and visually appealing web applications.  
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a passion fo
 ---
 
 ## 🧠 What I'm Learning
-- Advanced React concepts (e.g., hooks, server-side rendering)
+- Mobile Develoopment
 - Web animations and motion design    
 
 ---
